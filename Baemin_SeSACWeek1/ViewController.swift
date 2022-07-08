@@ -13,12 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print(1)
-        print(2)
-        print(3)
+        print(10)
+        print(20)
+        print(30)
         
-        print(4)
-        print(5)
+        print(40)
+        print(50)
         
         changeImage.setImage(UIImage.init(named: "mono_baedal_fresh02"), for: .normal)
         
