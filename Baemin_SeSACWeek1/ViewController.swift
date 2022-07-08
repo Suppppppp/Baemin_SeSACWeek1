@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         print(2)
         print(3)
         
+        print(4)
+        print(5)
         
         changeImage.setImage(UIImage.init(named: "mono_baedal_fresh02"), for: .normal)
         
